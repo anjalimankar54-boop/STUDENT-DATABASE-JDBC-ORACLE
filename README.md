@@ -3,13 +3,14 @@ This project demonstrates a Java-based Student Management System developed using
 The application establishes a secure database connection using JDBC, accepts user input through the console, and executes SQL queries to manage student records efficiently.
   
 ##Key Features
-Connects Java application with Oracle 10g database using JDBC.
+ Connects Java application with Oracle 10g database using JDBC.
 Inserts student records into the database.
 Displays existing student data.
 Updates student marks based on unique student ID.
 Handles exceptions and ensures proper resource management.
 
 ##Technologies Used
+
 Java (JDK)
 Oracle 10g XE
 JDBC (Oracle JDBC Driver)
